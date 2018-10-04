@@ -2,7 +2,10 @@
 Engine for dynamically filter/sort using EF
 
 # Usage sample 
-By default this will accept Datatables.net parameters format, you can change this by creating your own ParameterManager and override Process method.
+By default this will accept Datatables.net parameters format, you can change this by creating your own 
+ParameterManager and override Process method.
+By default cache is disabled but can be enabled globally setting DatagridSettings.DefaultCacheTimeoutInSeconds 
+to 0 (never expires) or higher, you can also enable cache individually calling .SetCache after Process or ModifyData.
 
 ~~~~
 using LinqKit; //excelent extensions to EF. I use it to create reusable projections
