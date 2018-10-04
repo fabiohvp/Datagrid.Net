@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datagrid.Net", "Datagrid.Net.csproj", "{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dev|Any CPU = Dev|Any CPU
+		Homo|Any CPU = Homo|Any CPU
+		Prod|Any CPU = Prod|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}.Homo|Any CPU.ActiveCfg = Homo|Any CPU
+		{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}.Homo|Any CPU.Build.0 = Homo|Any CPU
+		{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}.Prod|Any CPU.ActiveCfg = Prod|Any CPU
+		{9B2FCD1A-EB14-4100-B4F2-CC74DEEAEA6F}.Prod|Any CPU.Build.0 = Prod|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
